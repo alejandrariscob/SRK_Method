@@ -25,7 +25,7 @@ comp_2 = l_comp[int(n_comp2) - 1]
 k12 = input("Interaction parameter for the mixture:")
 k12 = FuncionesSRK.val_numero(k12)
 
-T = input("Temperature (°C):")
+T = input("Temperature (Â°C):")
 T = FuncionesSRK.val_numero(T)
 
 print("\n")
@@ -47,8 +47,6 @@ for x1 in np.linspace(0,1,5):
     l_y.append(y1)
     l_P.append(P)
 
-
-#Diagrama Pxy
 plt.plot(l_x,l_P,color='blue', label = 'Bubble line')
 plt.plot(l_y,l_P,color='red', label = 'Dew line')
 plt.xlabel('Composition (x1,y1) %s'%(comp_1.title()))
