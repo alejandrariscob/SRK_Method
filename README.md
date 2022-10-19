@@ -14,7 +14,7 @@ https://youtu.be/3CBiNfR1i0s
 
 
 # Copyright
-Copyright (C): Ing. Alejandra Risco B, Guayaquil, Ecuador.
+Copyright: Alejandra Risco Bravo, Guayaquil, Ecuador.
 
 This work aims to be a guide for undergrad students who are learning thermodynamics. 
 
