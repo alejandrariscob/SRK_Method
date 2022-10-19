@@ -6,7 +6,7 @@ This work includes:
   
   *Note:* A,B,C correspond to Antoines' Equation coefficients; whereas the tMin and tMax columns represent the temperature range where those coefficients are valid.
 - **CubicEquationSolver.py** created by Shril Kumar (github.com/devojoyti) &  Devojoyti Halder (github.com/devojoyti) to solve the equation for the compressibility factor Z.
-- **SRK_functions.py** containg the main calculations of the SRK Method.
+- **FuncionesSRK.py** containg the main calculations of the SRK Method.
 - **main.py** as the main program, where the components of the binary mixture are selected and all the calculations take place to obtain the Pxy diagram as the final outcome.
 
 Here is a little tutorial (It's in Spanish tho!): 
