@@ -52,7 +52,7 @@ def lcomp():
     return lcomp
 
 def coef_Antoine(comp):
-    archivo = open("Propiedades Comp.csv","r")
+    archivo = open("Properties_Comp.csv","r")
     archivo.readline()
     for linea in archivo:
         l= linea.split(";")
@@ -64,7 +64,7 @@ def coef_Antoine(comp):
     return [A,B,C]
 
 def rangoT(comp):
-    archivo = open("Propiedades Comp.csv", "r")
+    archivo = open("Properties_Comp.csv", "r")
     archivo.readline()
     for linea in archivo:
         l = linea.split(";")
@@ -99,7 +99,7 @@ def val_numero(x):
     return float(x)
 
 def w_Tc_Pc(comp):
-    archivo = open("Propiedades Comp.csv", "r")
+    archivo = open("Properties_Comp.csv", "r")
     archivo.readline()
     for linea in archivo:
         l = linea.split(";")
