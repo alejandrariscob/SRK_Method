@@ -42,7 +42,7 @@ def filtrarcomplejos(lista):
     return filtrado.tolist()
 
 def lcomp():
-    archivo = open("Propiedades Comp.csv", "r")
+    archivo = open("Properties_Comp.csv", "r")
     archivo.readline()
     lcomp = []
     for linea in archivo:
