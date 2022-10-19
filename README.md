@@ -10,7 +10,7 @@ This work includes:
 - **main.py** as the main program, where the components of the binary mixture are selected and all the calculations take place to obtain the Pxy diagram as the final outcome.
 
 Here is a little tutorial (It's in Spanish tho!): 
-https://www.youtube.com/watch?v=3CBiNfR1i0s&list=PLkW6J7xryaYhj10gocZeWL77ku9UBzCaF&index=15
+https://youtu.be/3CBiNfR1i0s
 
 
 # Copyright
